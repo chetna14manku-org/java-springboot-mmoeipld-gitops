@@ -12,5 +12,5 @@ spec:
   template:
     spec:
       containers:
-        - image: quay.io/chetna14manku_org/java-springboot-mmoeipld:e12f26ee8ee466d3082d7c42a14f99fc123b989b@sha256:621bf4f7edebc99b04bb53b2ed54d53de0a863527fcb3d6ec71a6bbba3dac933
+        - image: quay.io/chetna14manku_org/java-springboot-mmoeipld:69a65ddee6f53a52225811041a7c93c2358a081e@sha256:f88d1fe0b365297f1a2c4285688796db1145134178dc8dfeeae6c7f9901bd773
           name: container-image
