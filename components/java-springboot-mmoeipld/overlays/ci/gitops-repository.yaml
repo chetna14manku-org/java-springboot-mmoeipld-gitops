@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: java-springboot-mmoeipld-gitops-repository
+spec:
+  url: https://github.com/chetna14manku-org/java-springboot-mmoeipld-gitops
